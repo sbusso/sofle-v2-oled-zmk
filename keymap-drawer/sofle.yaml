@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - DELETE
+  - BACKSPACE
   - TAB
   - Q
   - W
@@ -24,7 +24,7 @@ layers:
   - I
   - O
   - P
-  - BSPC
+  - DEL
   - LCTRL
   - A
   - S
